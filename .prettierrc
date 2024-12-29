@@ -1,0 +1,13 @@
+{
+    "semi": true,                       // Fügt am Ende jeder Anweisung ein Semikolon hinzu
+    "singleQuote": true,                // Verwendet einfache Anführungszeichen anstelle von doppelten
+    "trailingComma": "es5",             // Fügt ein abschließendes Komma hinzu, wenn es in ES5 zulässig ist (z.B. in Objekten, Arrays)
+    "tabWidth": 2,                      // Bestimmt die Anzahl der Leerzeichen für eine Tabulatorbreite
+    "useTabs": false,                   // Verwendet Leerzeichen anstelle von Tabs
+    "printWidth": 80,                   // Maximale Zeilenlänge, bevor ein Zeilenumbruch erfolgt
+    "arrowParens": "always",            // Fügt immer Klammern um Parameter in Pfeilfunktionen hinzu
+    "bracketSpacing": true,             // Fügt Leerzeichen innerhalb von geschweiften Klammern hinzu
+    "jsxBracketSameLine": false,        // Platziert das schließende `>` von JSX-Tags in einer neuen Zeile
+    "endOfLine": "lf",                  // Bestimmt den Zeilenumbruch (Unix-Stil: `lf`, Windows-Stil: `crlf`)
+    "quoteProps": "as-needed"           // Verwendet Anführungszeichen um Objekt-Schlüssel nur, wenn notwendig
+  }
